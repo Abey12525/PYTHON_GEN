@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import random
 
 MAXNO = 10 ** 7

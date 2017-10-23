@@ -1,9 +1,7 @@
 """
 Simple parser to compile "flowchart language" into dot.
-
 - All lines starting with # are ignored. 
 - Each line is of the form.
-
 """
 
 import pprint
