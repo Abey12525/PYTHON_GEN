@@ -1,0 +1,64 @@
+#	Vector 
+#-----------#
+#	vector space 
+#		^
+#		|
+#		|							+
+#		|					+
+#		|							+
+#		|
+#		| .
+#	2	|           .
+#		| .					U
+#		 _ _ _ _ _ _ _ _ _ _ _ _ _ _ >
+#		            4
+#	A vector has both magnitude and direction 
+#	consider an example vector(A) = [2,4]
+#	the magnitude of A = sqrt(a[0]**2+a[1]**2)
+#	from the example we get sqrt(2**2+4**2)= 4.4721  
+#	dot product :
+#			consider another vector vector(B) = [2,4]
+#			then A.B = (2*4)+(4*2) =16
+#
+#
+#	In classifcation of nolinear class we intorduce Z = X **2 + Y**2 
+#
+#
+#	vecot W is the perpendicular point to the Hyper plane 
+#	And a new point to be classified is the new vector U (unknown)
+#	Now to classifiy we find use the equation W.U + b ------------- eqn(1)
+#	it is classified by comparing the value of the above eqn
+#						ie		W.U + b >= 0------> 	1/+
+#								W.U + b <   0------>		0/-
+#
+#
+#
+#	Yi - class of the features that we are passing through 
+#	if  Yi is + class then Yi is 1
+#	if  Yi si  - class then Yi is  -1
+#	Now we introduce Yi in the eqn(1)
+# 	+Class 		Yi ( Xi . W + b ) =( 1 ) Yi ------------ eqn(2)
+#		Yi=1
+#
+#					1(Xi . W + b ) = (1) 1 
+#								=>	Xi . W + b = 1
+#	
+#	-Class			Yi ( Xi . W + b  ) = (-1)  Yi ---------------- eqn(3)
+#		Yi=-1
+#
+#					-1(Xi . W + b ) = (-1) -1 
+#								=>	Xi . W + b = 1					
+#
+#	making eqn(2) and eqn(3) equal to zero
+#			ie		eqn(2) - 1
+#					eqn(3) - 1
+#
+#which we get the eqn equal to
+#								Yi(Xi . W + b)-1=0-----------------------eqn(4)
+#
+#	width=(X+ - X-). W/||W||
+#	width=2/||W||
+#  	^ 				  ^
+#		|				  |	
+#	max		    minimize
+#
