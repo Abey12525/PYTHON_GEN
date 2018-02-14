@@ -16,7 +16,7 @@ def get_all_tweets(screen_name):
 	alltweets = []  
 	new_tweets = api.user_timeline(screen_name = screen_name,count=13)
 	
-	[print(tweets) for tweets in new_tweets]
+	#[print(tweets) for tweets in new_tweets]
 	
 	alltweets.extend(new_tweets)
 	oldest = alltweets[-1].id - 1
