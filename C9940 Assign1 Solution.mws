@@ -1,0 +1,191 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 256 "" 1 24 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+257 "" 1 16 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" 20 258 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" 20 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" 20 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" 20 261 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 263 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 264 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 265 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 268 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 269 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 271 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 274 "Symbol" 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 }{CSTYLE "" -1 275 "Symbol" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 1 }{CSTYLE "" -1 276 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" 
+-1 277 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 278 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 279 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 1 }{CSTYLE "" -1 280 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 281 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+282 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 283 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 284 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 }{CSTYLE "" -1 285 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }
+{CSTYLE "" -1 286 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 
+287 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 288 "Symbol" 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 289 "Symbol" 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 290 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 1 }{CSTYLE "" -1 291 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" 
+-1 292 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 293 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 294 "" 0 1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 1 }{CSTYLE "" -1 295 "Symbol" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+}{CSTYLE "" -1 296 "Symbol" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "
+" -1 297 "Symbol" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 298 "
+Symbol" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 299 "Symbol" 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 300 "Symbol" 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 }{CSTYLE "" -1 301 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output
+" 0 11 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 3 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 256 1 {CSTYLE "" -1 -1 "" 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE 
+"" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }3 0 0 
+-1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 258 1 {CSTYLE "" -1 -1 "" 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 259 1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 0 0 
+0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 260 1 {CSTYLE "" -1 
+-1 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 261 1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 262 1 {CSTYLE "" 
+-1 -1 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }}
+{SECT 0 {PARA 256 "" 0 "" {TEXT 256 17 "ENG 7944 ROBOTICS" }}{PARA 
+257 "" 0 "" {TEXT 257 12 "Assignment 1" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 14 "with (linalg):" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 4 "2.27" }}{PARA 0 "" 0 
+"" {TEXT -1 113 "Consider an intermediate frame B' with its origin coi
+ncident with the origin of frame B, but oriented as frame A." }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 74 "TBprimeA := matrix(4,4,[1, 0
+, 0, 3, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]); " }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%)TBprimeAG-%'MATRIXG6#7&7&\"\"\"\"\"!F+\"\"$7&F+F*F+F
++7&F+F+F*F+7&F+F+F+F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 99 "TB
+Bprime := matrix(4,4,[cos(Pi), -sin(Pi), 0, 0, sin(Pi), cos(Pi), 0, 0,
+ 0, 0, 1, 0, 0, 0, 0, 1]); " }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)TBBp
+rimeG-%'MATRIXG6#7&7&!\"\"\"\"!F+F+7&F+F*F+F+7&F+F+\"\"\"F+7&F+F+F+F.
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "TBA := multiply(TBprime
+A,TBBprime);" }}{PARA 11 "" 1 "" {XPPMATH 259 "6#>%$TBAG-%'MATRIXG6#7&
+7&!\"\"\"\"!F+\"\"$7&F+F*F+F+7&F+F+\"\"\"F+7&F+F+F+F/" }}}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 4 "2.29" }}{PARA 0 "" 0 "" {TEXT 
+-1 319 "Consider two intermediate frames, C' and C\". C' has its origi
+n coincident with that of frame C, but is oriented as frame B. C\" als
+o has its origin coincident with that of frame B, but C'' is rotated 9
+0 degrees about yc'. From the C\" frame the C frame is achieved by a f
+urther rotation of 150 degrees about the xc\" axis." }}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 73 "TCprimeB := matrix(4,4,[1, 0, 0, 0, 0, 1, 0
+, 0, 0, 0, 1, 2, 0, 0, 0, 1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)T
+CprimeBG-%'MATRIXG6#7&7&\"\"\"\"\"!F+F+7&F+F*F+F+7&F+F+F*\"\"#7&F+F+F+
+F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 112 "TC2primeCprime := ma
+trix(4,4,[cos(Pi/2), 0, sin(Pi/2), 0, 0, 1, 0, 0, -sin(Pi/2), 0, cos(P
+i/2), 0, 0, 0, 0, 1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%/TC2primeC
+primeG-%'MATRIXG6#7&7&\"\"!F*\"\"\"F*7&F*F+F*F*7&!\"\"F*F*F*7&F*F*F*F+
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 115 "TCC2prime := matrix(4,
+4,[1, 0, 0, 0, 0, cos(5*Pi/6), -sin(5*Pi/6), 0, 0, sin(5*Pi/6), cos(5*
+Pi/6), 0, 0, 0, 0, 1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*TCC2prim
+eG-%'MATRIXG6#7&7&\"\"\"\"\"!F+F+7&F+,$*$\"\"$#F*\"\"##!\"\"F1F2F+7&F+
+F0F-F+7&F+F+F+F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 51 "TCB := \+
+multiply(TCprimeB,TC2primeCprime,TCC2prime);" }}{PARA 11 "" 1 "" 
+{XPPMATH 258 "6#>%$TCBG-%'MATRIXG6#7&7&\"\"!#\"\"\"\"\"#,$*$\"\"$F+#!
+\"\"F-F*7&F*F.F1F*7&F2F*F*F-7&F*F*F*F," }}}{PARA 0 "" 0 "" {TEXT -1 
+34 "This is an Euler angle solution:  " }{TEXT 262 1 "T" }{TEXT -1 3 "
+ = " }{TEXT 263 1 "D" }{TEXT -1 4 "z(2)" }{TEXT 264 1 "R" }{TEXT -1 6 
+"yb(90)" }{TEXT 265 1 "R" }{TEXT -1 9 "xb'(150)." }}{PARA 0 "" 0 "" 
+{TEXT -1 20 "Other solutions are:" }}{PARA 0 "" 0 "" {TEXT -1 30 "    \+
+   Fixed angle solution:  " }{TEXT 266 1 "T" }{TEXT -1 3 " = " }{TEXT 
+267 1 "D" }{TEXT -1 4 "z(2)" }{TEXT 268 1 "R" }{TEXT -1 7 "zb(210)" }
+{TEXT 269 1 "R" }{TEXT -1 7 "yb(90)." }}{PARA 0 "" 0 "" {TEXT -1 17 " \+
+      Composing " }{TEXT 270 1 "T" }{TEXT -1 6 " from " }{TEXT 271 1 "
+D" }{TEXT -1 16 "z(2) and either " }{TEXT 272 1 "R" }{TEXT -1 4 "XYZ(
+" }{TEXT 274 5 "g,b,a" }{TEXT -1 5 ") or " }{TEXT 273 1 "R" }{TEXT -1 
+7 "Z'Y'X'(" }{TEXT 275 5 "a,b,g" }{TEXT -1 1 ")" }}{PARA 0 "" 0 "" 
+{TEXT -1 27 "                     where " }{TEXT 298 1 "a" }{TEXT -1 
+8 " = 270, " }{TEXT 299 1 "b" }{TEXT -1 11 " = 90, and " }{TEXT 300 1 
+"g" }{TEXT -1 5 " = 60" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 4 "
+2.31" }}{PARA 0 "" 0 "" {TEXT -1 320 "Consider two intermediate frames
+, B' and B\". B' has its origin coincident with that of frame B, but i
+s oriented as frame A. B\" also has its origin coincident with that of
+ frame B, but B'' is rotated 180 degrees about zb'. From the B\" frame
+ the B frame is achieved by a further rotation of 270 degrees about th
+e xb\" axis." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 73 "TBprimeA := \+
+matrix(4,4,[1, 0, 0, 0, 0, 1, 0, 4, 0, 0, 1, 2, 0, 0, 0, 1]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)TBprimeAG-%'MATRIXG6#7&7&\"\"\"\"\"
+!F+F+7&F+F*F+\"\"%7&F+F+F*\"\"#7&F+F+F+F*" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 104 "TB2primeBprime := matrix(4,4,[cos(Pi), -sin(Pi), 0
+, 0, sin(Pi), cos(Pi), 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%/TB2primeBprimeG-%'MATRIXG6#7&7&!\"\"\"\"!F+F+7&
+F+F*F+F+7&F+F+\"\"\"F+7&F+F+F+F." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 115 "TBB2prime := matrix(4,4,[1, 0, 0, 0, 0, cos(9*Pi/6),
+ -sin(9*Pi/6), 0, 0, sin(9*Pi/6), cos(9*Pi/6), 0, 0, 0, 0, 1]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*TBB2primeG-%'MATRIXG6#7&7&\"\"\"\"
+\"!F+F+7&F+F+F*F+7&F+!\"\"F+F+7&F+F+F+F*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 51 "TBA := multiply(TBprimeA,TB2primeBprime,TBB2prime);" 
+}}{PARA 11 "" 1 "" {XPPMATH 260 "6#>%$TBAG-%'MATRIXG6#7&7&!\"\"\"\"!F+
+F+7&F+F+F*\"\"%7&F+F*F+\"\"#7&F+F+F+\"\"\"" }}}{PARA 0 "" 0 "" {TEXT 
+-1 34 "This is an Euler angle solution:  " }{TEXT 276 1 "T" }{TEXT -1 
+3 " = " }{TEXT 277 1 "D" }{TEXT -1 7 "yz(4,2)" }{TEXT 278 1 "R" }
+{TEXT -1 6 "za(90)" }{TEXT 279 1 "R" }{TEXT -1 9 "xb'(270)." }}{PARA 
+0 "" 0 "" {TEXT -1 20 "Other solutions are:" }}{PARA 0 "" 0 "" {TEXT 
+-1 30 "       Fixed angle solution:  " }{TEXT 280 1 "T" }{TEXT -1 3 " \+
+= " }{TEXT 281 1 "D" }{TEXT -1 7 "yz(4,2)" }{TEXT 282 1 "R" }{TEXT -1 
+7 "xa(270)" }{TEXT 283 1 "R" }{TEXT -1 8 "ya(180)." }}{PARA 0 "" 0 "" 
+{TEXT -1 17 "       Composing " }{TEXT 284 1 "T" }{TEXT -1 6 " from " 
+}{TEXT 285 1 "D" }{TEXT -1 16 "z(2) and either " }{TEXT 286 1 "R" }
+{TEXT -1 4 "XYZ(" }{TEXT 288 5 "g,b,a" }{TEXT -1 5 ") or " }{TEXT 287 
+1 "R" }{TEXT -1 7 "Z'Y'X'(" }{TEXT 289 5 "a,b,g" }{TEXT -1 1 ")" }}
+{PARA 0 "" 0 "" {TEXT -1 27 "                     where " }{TEXT 295 
+1 "a" }{TEXT -1 8 " = 270, " }{TEXT 296 1 "b" }{TEXT -1 10 " = 0, and \+
+" }{TEXT 297 1 "g" }{TEXT -1 6 " = 180" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 
+0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 
+0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{PARA 0 "" 0 "" {TEXT -1 4 "2.37" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 104 "TBA := matrix(4,4,[0.25, 0.43, 0.86, 5.0, 0.87, -0.5
+0, 0.00, -4.0, 0.43, 0.75, -0.50, 3.0, 0, 0, 0, 1]);" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#>%$TBAG-%'MATRIXG6#7&7&$\"#D!\"#$\"#VF,$\"#')F,$\"#]
+!\"\"7&$\"#()F,$!#]F,\"\"!$!#SF37&F-$\"#vF,F7$\"#IF37&F9F9F9\"\"\"" }}
+}{PARA 258 "" 1 "" {TEXT -1 15 "Element 2,4 of " }{TEXT 291 1 "T" }
+{TEXT -1 21 "AB will be given by -" }{TEXT 290 1 "R" }{TEXT -1 5 "AB x
+ " }{TEXT 293 1 "P" }{TEXT -1 126 "(Borg) - ref equation 2.45 Craig. S
+pecifically, this element will be given by the vector multiplication o
+f the second row of -" }{TEXT 292 1 "R" }{TEXT -1 8 "AB with " }{TEXT 
+294 1 "P" }{TEXT -1 7 "(Borg)." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}
+{PARA 0 "" 0 "" {TEXT 301 9 "METHOD 1 " }}{PARA 259 "" 0 "" {TEXT -1 
+0 "" }}{PARA 260 "" 0 "" {TEXT -1 0 "" }}{PARA 261 "" 0 "" {TEXT -1 
+68 "INVERT the 4 X 4   [ TBA ] Using ROBOT.exe -- The software supplie
+d." }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 262 "" 0 "" {TEXT -1 8 "ME
+THOD 2" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}{PARA 0 "" 0 "" {TEXT -1 0 "
+" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "RBA := submatrix(TBA,1..
+3,1..3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$RBAG-%'MATRIXG6#7%7%$\"
+#D!\"#$\"#VF,$\"#')F,7%$\"#()F,$!#]F,\"\"!7%F-$\"#vF,F4" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "RAB := transpose(RBA);" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#>%$RABG-%'MATRIXG6#7%7%$\"#D!\"#$\"#()F,$\"#VF,
+7%F/$!#]F,$\"#vF,7%$\"#')F,\"\"!F2" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 34 "PBorg := submatrix(TBA,1..3,4..4);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%&PBorgG-%'MATRIXG6#7%7#$\"#]!\"\"7#$!#SF,7#$\"#IF,
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "RAB2 := submatrix(RAB,2
+..2,1..3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%RAB2G-%'MATRIXG6#7#7%
+$\"#V!\"#$!#]F,$\"#vF," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "T
+AB24 := multiply(-RAB2,PBorg);" }}{PARA 11 "" 1 "" {XPPMATH 261 "6#>%&
+TAB24G-%'MATRIXG6#7#7#$!%+k!\"$" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{MARK "78 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 
+33 1 1 }
